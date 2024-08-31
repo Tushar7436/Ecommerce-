@@ -32,16 +32,4 @@ This is a full-stack e-commerce web application built with Node.js, Express, and
 - **React Router**: Routing library for React.js.
 - **Bootstrap/Tailwind CSS**: Responsive UI design.
 
-### API Integration
 
-- **Payment Gateway**: Integration with Stripe or PayPal for handling payments.
-- **Email Service**: Integration with services like SendGrid for sending transactional emails.
-- **Other APIs**: Any additional APIs integrated for features like product recommendations, shipping, etc.
-
-## Getting Started
-
-### Prerequisites
-
-- **Node.js**: Install from [nodejs.org](https://nodejs.org/)
-- **MongoDB**: Set up a MongoDB instance locally or use a service like [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
-- **npm**: Node Package Manager, comes with Node.js installation.
